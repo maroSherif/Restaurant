@@ -528,6 +528,10 @@ form button {
       margin: 20px 10px;
     }
 
+    #menu .menu-items .menu-item h3 {
+      font-sizr: 14px;
+    }
+
     #daytime .daytime-items {
       display: block;
       height: auto;
